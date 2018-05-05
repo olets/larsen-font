@@ -4,8 +4,17 @@ _Note: this is the creation of David Armstrong. ("I" in the text below is David 
 
 ---
 
+_Grey Larsen's introduction ([source](http://greylarsen.com/resources/larsen-font/))_
 
-(A special thanks goes to Christian for beta-testing and troubleshooting the Mac version!)
+> David Armstrong of Alberta, Canada, has developed a font called Larsen. This font makes it possible for anyone to utilise the symbols in Grey’s notation system for ornamentation in Irish Traditional Music.
+>
+> Versions of the font for both Mac and PC are offered here as a free download (zip file).
+>
+> Included in the zip file is an article by Grey called A Guide to Grey Larsen’s Notation System for Irish Ornamentation. It describes the basic workings of this ornamentation notation system. Feel free to share this article with others. For the fullest exploration of the system, please refer to Grey’s book, The Essential Guide to Irish Flute and Tin Whistle.
+>
+> David Armstrong developed this font after the publication of Grey’s first two books, The Essential Guide to Irish Flute and Tin Whistle and The Essential Tin Whistle Toolbox. Using the font, as Grey did in his books published in 2013, makes the ornamentation symbols look more crisp and clean than they did in his earlier books. Thank you, David!
+
+&nbsp;
 
 You will want to use the version appropriate to your operating system:
 
