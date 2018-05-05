@@ -1,3 +1,7 @@
+### v1.1.1
+
+- The cut symbol can now be typed with the plus-minus sign (`±`). The cut symbol can still be typed with single curly quotes (`‘` and `’`).
+
 ### v1.1
 
 - README updates
