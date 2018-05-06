@@ -1,3 +1,7 @@
+### v1.1.2
+
+- Add Apache License v2. This could change in the future at the request of the original creator. Any changes will apply retroactively.
+
 ### v1.1.1
 
 - The cut symbol can now be typed with the plus-minus sign (`±`). The cut symbol can still be typed with single curly quotes (`‘` and `’`).

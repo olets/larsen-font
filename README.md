@@ -57,4 +57,4 @@ _David Armstrong's [notes for the original release](https://github.com/olets/lar
 
 ## License
 
-This font is freeware.
+The original package stated that the font was freeware and that the font file's authorship information should not be modified. Extrapolating that into the modern world of forking and hacking, I think we're likely talking **Apache License 2.0**. This could change upon the request of the original creator — if you're in touch with him, let me know by opening an Issue. Any license changes will apply retroactively.
